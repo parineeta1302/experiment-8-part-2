@@ -5,6 +5,7 @@ speechBtn = document.querySelector(".speech"),
 copyBtn = document.querySelector(".copy"),
 twitterBtn = document.querySelector(".twitter"),
 synth = speechSynthesis;
+////....////
 
 function show(){
     document.querySelector('.hamburger').classList.toggle('open')
